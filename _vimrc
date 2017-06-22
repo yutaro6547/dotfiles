@@ -15,6 +15,7 @@ endif
   NeoBundle 'scrooloose/nerdtree'
   NeoBundle 'Shougo/neosnippet.vim'
   NeoBundle 'tomasr/molokai'
+  NeoBundle 'Shougo/unite.vim'
 call neobundle#end()
 filetype plugin indent on
 
